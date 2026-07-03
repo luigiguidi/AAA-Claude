@@ -1,6 +1,6 @@
 # AAA-Claude
 
-Questo repositoy raccoglie appunti e piccoli progetti di prova.
+Questo repository raccoglie appunti e piccoli progetti di prova.
 
 ## Contenuto
 
